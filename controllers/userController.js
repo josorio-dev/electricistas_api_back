@@ -1,4 +1,5 @@
 //Aquí vamos a tener todos los metodos que vamos a utilizar para realizar acciones.
+//Controles
 const User = require('../models/User');
 const { all } = require('../app');
 
